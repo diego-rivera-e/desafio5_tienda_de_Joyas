@@ -30,7 +30,9 @@ Filtrando las joyas por precio máximo, mínimo, categoría y metal:
 http://localhost:3000/joyas/filtros?precio_min=25000&precio_max=30000&categoria =aros&metal=plata
 
 
-GET /joyas 
+GET /joyas
+
+
 GET /joyas/filtros
 
 
